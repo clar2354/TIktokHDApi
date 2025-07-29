@@ -4,7 +4,7 @@ import requests
 app = FastAPI()
 
 RAPIDAPI_KEYS = [
-    "key_1_here",
+    "f5c44b05a2msh2b65270b6b13d1ap193756jsn3c76294b1ce9",
     "key_2_here",
     "key_3_here"
 ]
